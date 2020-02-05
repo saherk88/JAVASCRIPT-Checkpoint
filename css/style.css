@@ -1,0 +1,23 @@
+html {
+    background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, black, black 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+body{
+    color: white;
+}
+ul {
+    text-align: center;
+  }
+li{display: inline; padding: 50px; }
+li:hover{color: red;font-stretch: ultra-expanded;}
+  p{
+      display: inline;
+  }
+  button:hover{background-color: rgba(95, 107, 216, 0.973);}
+button{border: none; border-radius: 3px;}
+select,option,input{border: none; border-radius: 3px;}
+
+  .B2{font-weight: bold;}
+  .B3{font-style: italic;}
+  .B4{text-decoration-line: underline;}
